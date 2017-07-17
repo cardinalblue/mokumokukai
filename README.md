@@ -11,6 +11,7 @@
 1. [LIVEhouse.in](jobs/livehouse-in.md) - 徵資深網站後端工程師 (年薪 70 萬 ~ 100+ 萬)
 1. [Racbit 雷比兔](jobs/racbit.md) - 徵 Senior Rails Developer (月薪 5 萬 ~ 8 萬)
 1. [集界科技](jobs/tmotx.md) - 誠徵全職 Ruby on Rails 後端工程師一至二名 (月薪 5 萬 ~ 8 萬)
+1. [PicCollage 拼貼趣](jobs/piccollage.md) - Ruby on Rails 後端工程師一名 (年薪 80 萬 ~ 140 萬)
 
 
 ## 人求事
